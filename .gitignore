@@ -1,0 +1,8 @@
+records100/
+records500/
+ptbxl_data/
+
+*.csv
+*.pkl
+*.hea
+*.dat
